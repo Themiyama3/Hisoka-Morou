@@ -1,1 +1,1 @@
-worker: node . -- db 'mongodb+srv://hisoka:hisokamorrow@hisoka.axmu8.mongodb.net/?retryWrites=true&w=majority'
+worker: node . -- db 'mongodb+srv://Themiya_madu:wkK4zjqqONy7UmKK@cluster12.tepeoet.mongodb.net/?retryWrites=true&w=majority'
